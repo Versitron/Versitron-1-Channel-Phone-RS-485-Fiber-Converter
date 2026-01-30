@@ -40,7 +40,7 @@ Explore product options here:
 | Environmental Rating | Industrial deployment capable |
 | LED Indicators | Power and link status |
 
-*Exact specifications depend on the selected model and fiber type.*[versitron.com](https://www.versitron.com/products/pk1ds-rm-pots-2wire-rs485-data-1channel-fxofxs-fiber-converter-installation-kits-10)
+*Exact specifications depend on the selected model and fiber type, check the individual product details for exact values.*[versitron.com](https://www.versitron.com/products/pk1ds-rm-pots-2wire-rs485-data-1channel-fxofxs-fiber-converter-installation-kits-10)
 
 ---
 
